@@ -1,28 +1,27 @@
 # 👋 Hi, I'm Adrian Cabrera
 
-## 🚀 Software Engineer | Backend Developer | AI Enthusiast
+## 🚀 Software Engineer | Backend Developer | AI Researcher
 
-Backend Developer with experience in financial systems, distributed architectures, cloud technologies, and Artificial Intelligence.
+Backend Software Engineer passionate about building scalable financial systems, distributed architectures, cloud-native applications, and AI-powered solutions.
 
-Currently working on enterprise solutions using Java and Quarkus while pursuing a Master's Degree in Software Architecture.
+Currently working with Java, Quarkus and AWS while pursuing a Master's Degree in Software Architecture and researching local LLMs for voice assistants.
 
 ---
 
-## 💼 Professional Experience
+## 💼 About Me
 
-- Backend Developer
-- Financial Services & Digital Banking Solutions
-- REST APIs & Event-Driven Architectures
-- Microservices Development
-- Distributed Systems
-- Cloud & DevOps
+- 💻 Backend Software Engineer
+- 🏦 Building financial solutions and digital banking platforms
+- ☁️ Passionate about Cloud, Distributed Systems and AI
+- 🎓 Master's Student in Software Architecture
+- 🌱 Currently learning React, TypeScript and MERN
 
 ---
 
 ## 🎓 Education
 
-- Computer Engineering
-- Master's Degree in Software Architecture (In Progress)
+- 🎓 B.Sc. in Computer Engineering
+- 🎓 M.Sc. in Software Architecture *(In Progress)*
 
 ---
 
@@ -46,7 +45,7 @@ Currently working on enterprise solutions using Java and Quarkus while pursuing 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### AI & Machine Learning
+### Artificial Intelligence
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -54,53 +53,77 @@ Currently working on enterprise solutions using Java and Quarkus while pursuing 
 
 ---
 
-## 🔬 Current Research
+## 📖 Currently Learning
+ 
 
-### Local AI Assistant for Elderly People
+### Frontend
 
-Master's research project focused on:
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-- Local LLM deployment
-- Voice Assistants
-- Cognitive Exercises
-- Speech-to-Text
-- Text-to-Speech
-- Privacy-Preserving AI
-- Edge Computing
+### Backend
 
-Technologies:
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Software Engineering
+
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-00599C?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
+
+### Artificial Intelligence
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-4A90E2?style=for-the-badge)
+---
+
+## 📈 Contribution Graph
+
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdrianC47&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
+---
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdrianC47)](https://git.io/streak-stats)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianC47&layout=compact&hide_border=true)
+
+---
+
+
+## 🔬 Master's Research
+
+Research focused on designing and implementing a privacy-preserving local voice assistant for elderly people using Large Language Models (LLMs), Speech-to-Text, Text-to-Speech and Edge AI.
+
+Main technologies:
 
 - Llama 3.2
 - Llama.cpp
 - Whisper
-- Piper TTS
+- Piper
 - FastAPI
 - Angular
 - Kubernetes
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianC47&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianC47&layout=compact)
-
----
 
 ## 📚 Publications
 
-- Research in Artificial Intelligence
-- Software Architecture
-- Intelligent Systems
+- 📄 Author of 3 research papers in Artificial Intelligence, Intelligent Systems and Software Architecture.
+
+---
+ 
+
+## 🌎 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adrian-cabrera-80b67116b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AdrianC47)
 
 ---
 
-## 🌎 Connect with me
-
-- GitHub: https://github.com/AdryKab47
-- LinkedIn: https://www.linkedin.com/in/adrian-cabrera-80b67116b/
-
----
-
-> "We need get back to work"
+> "We need to get back to work"
